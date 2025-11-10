@@ -151,21 +151,4 @@ Deploy to Hugging Face Spaces using Gradio CLI:
    - `record_unknown_question`: Logs questions that couldn't be answered
 5. **Notifications**: Tool calls trigger Pushover notifications for tracking
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-**Harsh Chauhan**
-
-- Portfolio Assistant: [Live Demo](https://huggingface.co/spaces/Harshrc/career_conversation)
-- Hugging Face: [@Harshrc](https://huggingface.co/Harshrc)
-
----
-
 ⭐ If you find this project helpful, please consider giving it a star!
